@@ -1,1 +1,1 @@
-Added javascript validations to  login page in the project
+Add CSS Media queires to change the color of the text and background color of both navbar and footer
